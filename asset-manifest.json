@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cryptocoin/static/css/main.a10f71d4.css",
+    "main.js": "/cryptocoin/static/js/main.71a84076.js",
+    "static/js/787.411cc5fe.chunk.js": "/cryptocoin/static/js/787.411cc5fe.chunk.js",
+    "index.html": "/cryptocoin/index.html",
+    "main.a10f71d4.css.map": "/cryptocoin/static/css/main.a10f71d4.css.map",
+    "main.71a84076.js.map": "/cryptocoin/static/js/main.71a84076.js.map",
+    "787.411cc5fe.chunk.js.map": "/cryptocoin/static/js/787.411cc5fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a10f71d4.css",
+    "static/js/main.71a84076.js"
+  ]
+}
